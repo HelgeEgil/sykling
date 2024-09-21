@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b5d42569cdb34b30",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18454475d2b7344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05dec5fb3b722647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022/2022-09-06 Maurienne - Col du Mollard (ferdig).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f187f0935cc036a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e48c7cf6fc8dfc44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f332e5c65eb44df1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0065dc8c5d3ea386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eec49d08c7651b27",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a5fdf510cc93196",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.49999618530273
+  },
+  "right": {
+    "id": "fa42ccb49057e609",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76c1c552a8102a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62373057f8c2a406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022/2022-09-06 Maurienne - Col du Mollard (ferdig).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cda755ae5920a7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022/2022-09-06 Maurienne - Col du Mollard (ferdig).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6eb42f089b6df7a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9589862bb7ca7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022/2022-09-06 Maurienne - Col du Mollard (ferdig).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05dec5fb3b722647",
+  "lastOpenFiles": [
+    "Bilder/2022-06-09 ned i mørket.png",
+    "Bilder/2022-06-09 col du mollard.png",
+    "Oversikt 2022.md",
+    "2022/2022-09-06 Maurienne - Col du Mollard (ferdig).md",
+    "2022/2022-08 Til Masfjorden om Radøy.md",
+    "Bilder/2022-09-06 Villargondran.png",
+    "Bilder/2022-09-06 Hus oppover.png",
+    "Bilder/2022-09-06 klare for tur.png",
+    "Bilder/2022-09-06 Col de la confrerie.png",
+    "Bilder/2022-09-06 Aiguilles dArves.png",
+    "Bilder/2022-09-06 god stemning.png",
+    "2022/2022-09-09 Maurienne - Col du Télégraphe, Col du Galibier.md",
+    "2022/2022-09-07 Maurienne - Lacets de Montvernier, Col du Chaussy.md",
+    "2022/2022-09-10 Maurienne - Montdenis, Col du Sapey.md",
+    "Vestland.md",
+    "Untitled.md",
+    "2022/2022-07 Opp Fløyen et par ganger.md",
+    "2022/2022-06 Eksingedalen (ferdig).md",
+    "2022/2022-06 Sljeme (ferdig).md",
+    "2022/2022-06 Totlandsfjellet.md",
+    "2022/2022-06 Bergen-Voss som aldri ble.md",
+    "2022/2022-03 Zwift & Four Horsemen.md",
+    "2022/2022-04 Til Askøy med Daniel.md",
+    "2022/2022-11 Milano.md",
+    "Bilder/2024-02-29 Mirador 1.png",
+    "Bilder/2024-02-29 Mirador 2.png",
+    "2024/2024-02-28 Gran Canaria - Santa Lucia via Agüimes (ferdig).md",
+    "2024/2024-02-29 Gran Canaria - Soria og Pico de las Nieves (ferdig).md",
+    "Teknisk/Vise frem kart.md",
+    "Teknisk/Markdown og next.js.md",
+    "2022/2022-05 Røtingen med Safer Cycling.md",
+    "2022/2022-05 Akrotiri-turene (ferdig).md",
+    "2022/2022-08 Langs sørsiden av Osterøy.md",
+    "2024"
+  ]
+}
